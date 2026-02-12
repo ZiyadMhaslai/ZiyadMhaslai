@@ -1,4 +1,4 @@
- ![logo]()
+ ![logo](https://github.com/ZiyadMhaslai/ZiyadMhaslai/blob/main/image-3.png)
 # 💫 Hi 👋, I'm Ziyad Mhaslai
 ** Data Analyst | Power BI • Advanced Excel • SQL • Python • ML**
 
