@@ -20,7 +20,7 @@ For Collaboration/Project or Anything Else. 😊😊
 
 ⚡ Fun fact: I enjoy turning raw data into meaningful insights 📊
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
@@ -33,7 +33,6 @@ For Collaboration/Project or Anything Else. 😊😊
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
