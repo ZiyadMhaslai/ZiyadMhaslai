@@ -1,6 +1,6 @@
  ![logo]()
 # 💫 Hi 👋, I'm Ziyad Mhaslai
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+** Data Analyst | Power BI • Advanced Excel • SQL • Python • ML**
 
 Email Me 👉 ✉️ **ziyadmhaslai227@gmail.com**
 
@@ -21,7 +21,6 @@ For Collaboration/Project or Anything Else. 😊😊
 ⚡ Fun fact: I enjoy turning raw data into meaningful insights 📊
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
